@@ -1,11 +1,11 @@
-# proyectosemana1
+# proyectosemana2
 Grupo conformado por:
 
-Lulio Arturo Herrera Mestanza
+Segundo William Guzman Correa
 
 Joffre Hermosilla Salas
 
-SOLUCION AL ENUNCIADO 
+SOLUCION AL ENUNCIADO 2
 
 
 
